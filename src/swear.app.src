@@ -1,0 +1,15 @@
+{application, swear,
+ [{description, "OTP library useful to scan for profanity in text"},
+  {vsn, "1.0.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, ["Goncalo Tomas"]},
+  {licenses, ["Apache 2.0"]},
+  {links, [{"Github","https://github.com/ClicaAi/swear"}]}
+ ]}.
