@@ -1,4 +1,6 @@
-# swear
+# swear - Profanity scanning library
+[![Build Status](https://travis-ci.org/ClicaAi/swear.svg?branch=master)](https://travis-ci.org/ClicaAi/swear)
+[![hex version](https://img.shields.io/hexpm/v/swear.svg)](https://hex.pm/packages/swear)  
 
 An OTP library to scan for profanity in strings.  
 Swear word lists adapted from [Shutterstock's][1] repo.
